@@ -210,6 +210,7 @@
 
 ## TypeScript 
 
+- [udecode/plate](https://github.com/udecode/plate) - The rich-text editor for React.
 - [lukeautry/tsoa](https://github.com/lukeautry/tsoa) - Build OpenAPI-compliant REST APIs using TypeScript and Node
 - [SyntaxUI/syntaxui](https://github.com/SyntaxUI/syntaxui) - Get free access to pre-built, Tailwind CSS-powered components, animations and effects - brought to life using Framer Motion. Just copy, paste and you're ready to go!
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
@@ -223,7 +224,7 @@
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
 - [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
-- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure
 - [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - A lightweight carousel library with fluid motion and great swipe precision.
 - [xzdarcy/react-timeline-editor](https://github.com/xzdarcy/react-timeline-editor) - react-timeline-editor is a react component used to quickly build a timeline animation editor.
 - [pmndrs/use-gesture](https://github.com/pmndrs/use-gesture) - 👇Bread n butter utility for component-tied mouse/touch gestures in React and Vanilla Javascript.
