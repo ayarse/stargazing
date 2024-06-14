@@ -128,7 +128,7 @@
 
 ## ai 
 
-- [hashintel/hash](https://github.com/hashintel/hash) - 🚀 The open-source, self-building database. From @hashintel
+- [hashintel/hash](https://github.com/hashintel/hash) - 🚀  Open-source, self-building database and AI worker management
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
 
@@ -277,7 +277,7 @@
 
 ## database 
 
-- [hashintel/hash](https://github.com/hashintel/hash) - 🚀 The open-source, self-building database. From @hashintel
+- [hashintel/hash](https://github.com/hashintel/hash) - 🚀  Open-source, self-building database and AI worker management
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
@@ -906,7 +906,7 @@
 
 ## rust 
 
-- [hashintel/hash](https://github.com/hashintel/hash) - 🚀 The open-source, self-building database. From @hashintel
+- [hashintel/hash](https://github.com/hashintel/hash) - 🚀  Open-source, self-building database and AI worker management
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 
@@ -974,7 +974,7 @@
 - [SyntaxUI/syntaxui](https://github.com/SyntaxUI/syntaxui) - Get free access to pre-built, Tailwind CSS-powered components, animations and effects - brought to life using Framer Motion. Just copy, paste and you're ready to go!
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue
-- [hashintel/hash](https://github.com/hashintel/hash) - 🚀 The open-source, self-building database. From @hashintel
+- [hashintel/hash](https://github.com/hashintel/hash) - 🚀  Open-source, self-building database and AI worker management
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
 - [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
