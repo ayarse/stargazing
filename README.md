@@ -292,7 +292,7 @@
 - [taye/interact.js](https://github.com/taye/interact.js) - JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE9+)
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
-- [alibaba/hooks](https://github.com/alibaba/hooks) - A high-quality & reliable React Hooks library.
+- [alibaba/hooks](https://github.com/alibaba/hooks) - A high-quality & reliable React Hooks library.   https://ahooks.pages.dev/
 - [micro-tools/fastify-service-skeleton](https://github.com/micro-tools/fastify-service-skeleton) - Create fastify based microservices even faster.
 - [NodeFactoryIo/node-ts-starter-fastify](https://github.com/NodeFactoryIo/node-ts-starter-fastify) - Template repository for NodeJs and Fastify powered API
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
