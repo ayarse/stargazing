@@ -728,6 +728,7 @@
 
 ## others 
 
+- [ibelick/motion-primitives](https://github.com/ibelick/motion-primitives) - A collection of open-source, customizable motion components built with Framer Motion and Tailwind CSS.
 - [measuredco/puck](https://github.com/measuredco/puck) - The visual editor for React
 - [cschroeter/park-ui](https://github.com/cschroeter/park-ui) - Beautifully designed components built on Ark UI that work for the JS and CSS frameworks of your choice.
 - [chrisbull/font-collection](https://github.com/chrisbull/font-collection) - 
