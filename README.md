@@ -77,6 +77,7 @@
 
 ## HTML 
 
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [themesberg/flowbite-admin-dashboard](https://github.com/themesberg/flowbite-admin-dashboard) - Free and open-source admin dashboard template built with Tailwind CSS and Flowbite
 - [dailydotdev/daily-scraper](https://github.com/dailydotdev/daily-scraper) - Fetches information about every webpage 🤖
 - [Vonng/Capslock](https://github.com/Vonng/Capslock) - Make Capslock Great Again!
