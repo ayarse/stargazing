@@ -64,7 +64,7 @@
 
 ## Elixir 
 
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Postgres everywhere — your data, in sync, wherever you need it.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - Sync subsets of your Postgres data into local apps and services.
 
 ## Go 
 
@@ -249,7 +249,7 @@
 - [boxyhq/saas-starter-kit](https://github.com/boxyhq/saas-starter-kit) - 🔥 Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate 🚀
 - [chakra-ui/ark](https://github.com/chakra-ui/ark) - A headless library for building reusable, scalable design systems that works for a wide range of JS frameworks.
 - [supercharge/framework](https://github.com/supercharge/framework) - The Supercharge core code
-- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform for TypeScript.
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform.
 - [inngest/inngest](https://github.com/inngest/inngest) - A scalable, low-latency, event-driven durable execution platform.  Supports functions deployed to serverless, servers, or the edge.
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [lightdash/lightdash](https://github.com/lightdash/lightdash) - Self-serve BI to 10x your data team ⚡️
