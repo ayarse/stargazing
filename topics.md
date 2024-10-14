@@ -93,7 +93,6 @@
 - [objective-c](#objective-c)
 - [open-source](#open-source)
 - [openai](#openai)
-- [opengl](#opengl)
 - [others](#others)
 - [php](#php)
 - [postgresql](#postgresql)
@@ -736,10 +735,6 @@
 ## openai 
 
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
-
-## opengl 
-
-- [thorvg/thorvg](https://github.com/thorvg/thorvg) - Thor Vector Graphics is a lightweight portable library used for drawing vector-based scenes and animations including SVG and Lottie. It can be freely utilized across various software platforms and app
 
 ## others 
 
