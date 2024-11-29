@@ -60,6 +60,7 @@
 - [graphql](#graphql)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
+- [home-assistant](#home-assistant)
 - [html](#html)
 - [http](#http)
 - [icon-font](#icon-font)
@@ -111,6 +112,7 @@
 - [serverless](#serverless)
 - [shell](#shell)
 - [sketch](#sketch)
+- [software](#software)
 - [sql](#sql)
 - [sqlite](#sqlite)
 - [support](#support)
@@ -173,6 +175,7 @@
 
 ## awesome 
 
+- [wang1212/awesome-favorites-list](https://github.com/wang1212/awesome-favorites-list) - :lollipop: Favorites list - awesome open source projects, websites, books, software etc. | 收藏列表，非常棒的开源项目、网站、书籍、软件等。
 - [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
 - [officialrajdeepsingh/awesome-nextjs](https://github.com/officialrajdeepsingh/awesome-nextjs) - A curated list of awesome Nextjs-based libraries that help build small and large-scale applications with next.js.
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
@@ -186,6 +189,7 @@
 
 ## awesome-list 
 
+- [wang1212/awesome-favorites-list](https://github.com/wang1212/awesome-favorites-list) - :lollipop: Favorites list - awesome open source projects, websites, books, software etc. | 收藏列表，非常棒的开源项目、网站、书籍、软件等。
 - [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
 - [officialrajdeepsingh/awesome-nextjs](https://github.com/officialrajdeepsingh/awesome-nextjs) - A curated list of awesome Nextjs-based libraries that help build small and large-scale applications with next.js.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -490,6 +494,10 @@
 - [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
 - [keymanapp/keyman](https://github.com/keymanapp/keyman) - Keyman cross platform input methods system running on Android, iOS, Linux, macOS, Windows and mobile and desktop web
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+
+## home-assistant 
+
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 
 ## html 
 
@@ -980,6 +988,10 @@
 - [dgmjs/dgmjs](https://github.com/dgmjs/dgmjs) - An infinite canvas with smart shapes
 - [tbolis/react-sketch](https://github.com/tbolis/react-sketch) - Sketch Tool for React-based applications, backed up by FabricJS
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard / infinite canvas SDK
+
+## software 
+
+- [wang1212/awesome-favorites-list](https://github.com/wang1212/awesome-favorites-list) - :lollipop: Favorites list - awesome open source projects, websites, books, software etc. | 收藏列表，非常棒的开源项目、网站、书籍、软件等。
 
 ## sql 
 
