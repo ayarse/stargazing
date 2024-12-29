@@ -26,7 +26,6 @@
 - [Shell](#shell)
 - [Slim](#slim)
 - [TypeScript](#typescript)
-- [Vue](#vue)
 
 ## C 
 
@@ -252,7 +251,7 @@
 - [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - How smooth scroll should be
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
-- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - React components to build charts and dashboards
+- [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 - [kobaltedev/kobalte](https://github.com/kobaltedev/kobalte) - A UI toolkit for building accessible web apps and design systems with SolidJS.
 - [ibelick/ui-snippets](https://github.com/ibelick/ui-snippets) - Collection of dark mode components and effects crafted in React and Tailwind CSS.
@@ -321,10 +320,6 @@
 - [jeremyben/json-server-auth](https://github.com/jeremyben/json-server-auth) - Authentication & Authorization flow for JSON Server
 - [akveo/eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
 - [alonrbar/easy-template-x](https://github.com/alonrbar/easy-template-x) - Generate docx documents from templates, in Node or in the browser.
-
-## Vue 
-
-- [Wizdom-Intranet/spfx-ui-fabric-vue](https://github.com/Wizdom-Intranet/spfx-ui-fabric-vue) - DEPRECATED Office UI fabric components made specific for SPFx.
 
 
 ## License
