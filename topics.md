@@ -42,6 +42,7 @@
 - [education](#education)
 - [electron](#electron)
 - [elixir](#elixir)
+- [embedded](#embedded)
 - [es6](#es6)
 - [eslint](#eslint)
 - [express](#express)
@@ -134,7 +135,7 @@
 
 ## ai 
 
-- [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - Automate browser actions, extract data, and perform assertions using AI. It offers JavaScript SDK, Chrome extension, and support for scripting in YAML.
+- [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - AI-Driven Browser Automation with Chrome Extensions, JavaScript, and YAML Scripts.
 - [udecode/plate](https://github.com/udecode/plate) - A rich-text editor powered by AI
 - [hashintel/hash](https://github.com/hashintel/hash) - 🚀  The open-source, multi-tenant, self-building knowledge graph
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
@@ -259,7 +260,7 @@
 
 - [sadanandpai/frontend-learning-kit](https://github.com/sadanandpai/frontend-learning-kit) - Frontend tech guide and curated collection of frontend materials
 - [SyntaxUI/syntaxui](https://github.com/SyntaxUI/syntaxui) - Get free access to pre-built, Tailwind CSS-powered components, animations and effects - brought to life using Framer Motion. Just copy, paste and you're ready to go!
-- [nextui-org/tailwind-variants](https://github.com/nextui-org/tailwind-variants) - 🦄 Tailwindcss first-class variant API
+- [heroui-inc/tailwind-variants](https://github.com/heroui-inc/tailwind-variants) - 🦄 Tailwindcss first-class variant API
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [themesberg/flowbite-admin-dashboard](https://github.com/themesberg/flowbite-admin-dashboard) - Free and open-source admin dashboard template built with Tailwind CSS and Flowbite
@@ -300,6 +301,7 @@
 ## database 
 
 - [hashintel/hash](https://github.com/hashintel/hash) - 🚀  The open-source, multi-tenant, self-building knowledge graph
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
@@ -355,6 +357,10 @@
 ## elixir 
 
 - [electric-sql/electric](https://github.com/electric-sql/electric) - Sync little subsets of your Postgres data into local apps and services.
+
+## embedded 
+
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 
 ## es6 
 
@@ -609,8 +615,9 @@
 
 ## library 
 
+- [ibelick/motion-primitives](https://github.com/ibelick/motion-primitives) - UI kit to make beautiful, animated interfaces, faster. Customizable. Open Source.
 - [saas-js/saas-ui](https://github.com/saas-js/saas-ui) - The React component library for startups, built with Chakra UI.
-- [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
+- [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 
 ## linux 
 
@@ -761,6 +768,7 @@
 
 ## others 
 
+- [campsite/campsite](https://github.com/campsite/campsite) - The Campsite monorepo
 - [Olshansk/postgres_for_everything](https://github.com/Olshansk/postgres_for_everything) - How to reduce complexity and move faster? Just Postgres for everything.
 - [vitodeploy/vito](https://github.com/vitodeploy/vito) - Free and Self-Hosted  Server Management Tool
 - [lindesvard/pushmodal](https://github.com/lindesvard/pushmodal) - Handle shadcn dialog, sheet and drawer with ease
@@ -875,7 +883,7 @@
 
 ## react 
 
-- [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - Automate browser actions, extract data, and perform assertions using AI. It offers JavaScript SDK, Chrome extension, and support for scripting in YAML.
+- [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - AI-Driven Browser Automation with Chrome Extensions, JavaScript, and YAML Scripts.
 - [sadanandpai/frontend-learning-kit](https://github.com/sadanandpai/frontend-learning-kit) - Frontend tech guide and curated collection of frontend materials
 - [officialrajdeepsingh/awesome-nextjs](https://github.com/officialrajdeepsingh/awesome-nextjs) - A curated list of awesome Nextjs-based libraries that help build small and large-scale applications with next.js.
 - [FormidableLabs/nuka-carousel](https://github.com/FormidableLabs/nuka-carousel) - Small, fast, and accessibility-first React carousel library with an easily customizable UI and behavior to fit your brand and site.
@@ -945,7 +953,7 @@
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript.
 - [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
-- [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
+- [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [salgum1114/react-design-editor](https://github.com/salgum1114/react-design-editor) - React Design Editor has started to developed direct manipulation of editable design tools like Powerpoint, We've developed it with reactjs, ant.design, fabricjs
 - [veilair/javascript-development](https://github.com/veilair/javascript-development) - An ongoing curated list of frameworks, books, articles, talks, screencasts, recordings, libraries, learning tutorials and shiny resources about Javascript Development.
 - [agzertuche/SPFx-Learning-Path](https://github.com/agzertuche/SPFx-Learning-Path) - Learning path to understand SharePoint Framework
@@ -981,6 +989,7 @@
 - [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS.
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
 
 ## serverless 
@@ -1037,7 +1046,7 @@
 - [ibelick/motion-primitives](https://github.com/ibelick/motion-primitives) - UI kit to make beautiful, animated interfaces, faster. Customizable. Open Source.
 - [SyntaxUI/syntaxui](https://github.com/SyntaxUI/syntaxui) - Get free access to pre-built, Tailwind CSS-powered components, animations and effects - brought to life using Framer Motion. Just copy, paste and you're ready to go!
 - [gregberge/twc](https://github.com/gregberge/twc) - Create reusable React + Tailwind CSS components in one line ✨
-- [nextui-org/tailwind-variants](https://github.com/nextui-org/tailwind-variants) - 🦄 Tailwindcss first-class variant API
+- [heroui-inc/tailwind-variants](https://github.com/heroui-inc/tailwind-variants) - 🦄 Tailwindcss first-class variant API
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
@@ -1056,12 +1065,12 @@
 
 ## testing 
 
-- [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - Automate browser actions, extract data, and perform assertions using AI. It offers JavaScript SDK, Chrome extension, and support for scripting in YAML.
+- [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - AI-Driven Browser Automation with Chrome Extensions, JavaScript, and YAML Scripts.
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
 
 ## typescript 
 
-- [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - Automate browser actions, extract data, and perform assertions using AI. It offers JavaScript SDK, Chrome extension, and support for scripting in YAML.
+- [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - AI-Driven Browser Automation with Chrome Extensions, JavaScript, and YAML Scripts.
 - [webpro-nl/knip](https://github.com/webpro-nl/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
 - [udecode/plate](https://github.com/udecode/plate) - A rich-text editor powered by AI
@@ -1138,7 +1147,7 @@
 
 ## web 
 
-- [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - Automate browser actions, extract data, and perform assertions using AI. It offers JavaScript SDK, Chrome extension, and support for scripting in YAML.
+- [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - AI-Driven Browser Automation with Chrome Extensions, JavaScript, and YAML Scripts.
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
