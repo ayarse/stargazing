@@ -145,7 +145,7 @@
 
 ## Others 
 
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - 
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev & Lovable System Prompts & AI Models.
 - [expo/fyi](https://github.com/expo/fyi) - Little bits of information that you may find useful when interacting with Expo tools and service. Append the markdown filename to https://expo.fyi/ to get a quick link to it.
 - [Olshansk/postgres_for_everything](https://github.com/Olshansk/postgres_for_everything) - How to reduce complexity and move faster? Just Postgres for everything.
 - [sadanandpai/frontend-learning-kit](https://github.com/sadanandpai/frontend-learning-kit) - Frontend tech guide and curated collection of frontend materials
