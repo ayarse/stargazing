@@ -35,6 +35,7 @@
 - [dependency-management](#dependency-management)
 - [deployment](#deployment)
 - [design](#design)
+- [development](#development)
 - [devops](#devops)
 - [django](#django)
 - [docker](#docker)
@@ -142,7 +143,7 @@
 - [udecode/plate](https://github.com/udecode/plate) - A rich-text editor powered by AI
 - [hashintel/hash](https://github.com/hashintel/hash) - 🚀  The open-source, multi-tenant, self-building knowledge graph
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
-- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
+- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - AI personal assistant for email. Open source app to help you reach inbox zero fast.
 
 ## algorithm 
 
@@ -237,7 +238,7 @@
 
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [inngest/inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
 
 ## code-quality 
 
@@ -325,6 +326,10 @@
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard SDK / infinite canvas SDK
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
+
+## development 
+
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
 ## devops 
 
@@ -449,9 +454,9 @@
 
 - [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
 - [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
 
 ## golang 
 
@@ -459,9 +464,9 @@
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
 - [superstreamlabs/memphis](https://github.com/superstreamlabs/memphis) - Memphis.dev is a highly scalable and effortless data streaming platform
 
 ## good-first-issue 
@@ -641,7 +646,7 @@
 
 ## llm 
 
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 
 ## low-code 
 
@@ -710,7 +715,7 @@
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
+- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link attribution platform. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
@@ -724,7 +729,7 @@
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [CromwellCMS/Cromwell](https://github.com/CromwellCMS/Cromwell) - WordPress-like CMS for Next.js websites
@@ -755,7 +760,7 @@
 - [badsyntax/grpc-js-typescript](https://github.com/badsyntax/grpc-js-typescript) - Generate gRPC TypeScript definitions for use with gRPC (@grpc/grpc-js).
 - [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio.
 - [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
 - [dailydotdev/daily-api](https://github.com/dailydotdev/daily-api) - 
 - [jeffijoe/awilix](https://github.com/jeffijoe/awilix) - Extremely powerful Inversion of Control (IoC) container for Node.JS
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
@@ -781,15 +786,16 @@
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link attribution platform. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
 - [firecamp-dev/firecamp](https://github.com/firecamp-dev/firecamp) - Developer-first OpenSource API DevTool, Postman/Insomnia alternative.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 
 ## openai 
 
-- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
+- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - AI personal assistant for email. Open source app to help you reach inbox zero fast.
 
 ## others 
 
+- [L-Blondy/up-fetch](https://github.com/L-Blondy/up-fetch) - Advanced fetch client builder
 - [expo/fyi](https://github.com/expo/fyi) - Little bits of information that you may find useful when interacting with Expo tools and service. Append the markdown filename to https://expo.fyi/ to get a quick link to it.
 - [campsite/campsite](https://github.com/campsite/campsite) - The Campsite monorepo
 - [Olshansk/postgres_for_everything](https://github.com/Olshansk/postgres_for_everything) - How to reduce complexity and move faster? Just Postgres for everything.
@@ -867,7 +873,7 @@
 - [bruin-data/ingestr](https://github.com/bruin-data/ingestr) - ingestr is a CLI tool to copy data between any databases with a single command seamlessly.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
+- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
@@ -939,7 +945,7 @@
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [saas-js/saas-ui](https://github.com/saas-js/saas-ui) - The React component library for startups, built with Chakra UI.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
 - [pmndrs/leva](https://github.com/pmndrs/leva) - 🌋 React-first components GUI
 - [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
@@ -953,7 +959,7 @@
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [primefaces/primereact](https://github.com/primefaces/primereact) - The Most Complete React UI Component Library
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
-- [alibaba/hooks](https://github.com/alibaba/hooks) - A high-quality & reliable React Hooks library.   https://ahooks.pages.dev/
+- [alibaba/hooks](https://github.com/alibaba/hooks) - A high-quality & reliable React Hooks library.   https://alibaba.github.io/hooks/
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [alibaba/designable](https://github.com/alibaba/designable) - 🧩 Make everything designable 🧩
 - [agzertuche/SPFx-Learning-Path](https://github.com/agzertuche/SPFx-Learning-Path) - Learning path to understand SharePoint Framework
@@ -1001,11 +1007,11 @@
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
 
 ## security-tools 
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
 
 ## self-hosted 
 
@@ -1102,7 +1108,7 @@
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
 - [hashintel/hash](https://github.com/hashintel/hash) - 🚀  The open-source, multi-tenant, self-building knowledge graph
-- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
+- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link attribution platform. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
@@ -1126,7 +1132,7 @@
 - [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript.
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
 - [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
 - [stephenh/ts-proto](https://github.com/stephenh/ts-proto) - An idiomatic protobuf generator for TypeScript
 - [remeda/remeda](https://github.com/remeda/remeda) - A utility library for JavaScript and TypeScript.
