@@ -143,7 +143,7 @@
 ## Others 
 
 - [agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) - A curated list of awesome developer-first tools products.
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin & Replit Agent System Prompts, Tools & AI Models.
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And other Open Sourced) System Prompts, Tools & AI Models.
 - [expo/fyi](https://github.com/expo/fyi) - Little bits of information that you may find useful when interacting with Expo tools and service. Append the markdown filename to https://expo.fyi/ to get a quick link to it.
 - [Olshansk/postgres_for_everything](https://github.com/Olshansk/postgres_for_everything) - How to reduce complexity and move faster? Just Postgres for everything.
 - [sadanandpai/frontend-learning-kit](https://github.com/sadanandpai/frontend-learning-kit) - Frontend tech guide and curated collection of frontend materials
@@ -227,7 +227,7 @@
 - [L-Blondy/up-fetch](https://github.com/L-Blondy/up-fetch) - Advanced fetch client builder
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [campsite/campsite](https://github.com/campsite/campsite) - The Campsite monorepo
-- [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - Let AI be your browser operator.
+- [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - Your AI Operator for Web, Android, Automation & Testing.
 - [wang1212/awesome-favorites-list](https://github.com/wang1212/awesome-favorites-list) - :lollipop: Favorites list - awesome open source projects, websites, books, software etc. | 收藏列表，非常棒的开源项目、网站、书籍、软件等。
 - [lindesvard/pushmodal](https://github.com/lindesvard/pushmodal) - Handle shadcn dialog, sheet and drawer with ease
 - [47ng/nuqs](https://github.com/47ng/nuqs) - Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string.
@@ -253,8 +253,8 @@
 - [heroui-inc/tailwind-variants](https://github.com/heroui-inc/tailwind-variants) - 🦄 Tailwindcss first-class variant API
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
-- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
-- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link attribution platform. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
+- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
+- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by modern marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
 - [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - A lightweight carousel library with fluid motion and great swipe precision.
 - [xzdarcy/react-timeline-editor](https://github.com/xzdarcy/react-timeline-editor) - react-timeline-editor is a react component used to quickly build a timeline animation editor.
 - [pmndrs/use-gesture](https://github.com/pmndrs/use-gesture) - 👇Bread n butter utility for component-tied mouse/touch gestures in React and Vanilla Javascript.
