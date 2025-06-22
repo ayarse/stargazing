@@ -103,6 +103,7 @@
 - [php](#php)
 - [postgresql](#postgresql)
 - [privacy](#privacy)
+- [productivity](#productivity)
 - [programming](#programming)
 - [project-management](#project-management)
 - [python](#python)
@@ -897,6 +898,10 @@
 ## privacy 
 
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
+
+## productivity 
+
+- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 
 ## programming 
 
