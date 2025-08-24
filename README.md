@@ -153,7 +153,7 @@
 ## Others 
 
 - [agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) - A curated list of awesome developer-first tools products.
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Mode
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, T
 - [expo/fyi](https://github.com/expo/fyi) - Little bits of information that you may find useful when interacting with Expo tools and service. Append the markdown filename to https://expo.fyi/ to get a quick link to it.
 - [Olshansk/postgres_for_everything](https://github.com/Olshansk/postgres_for_everything) - How to reduce complexity and move faster? Just Postgres for everything.
 - [sadanandpai/frontend-learning-kit](https://github.com/sadanandpai/frontend-learning-kit) - Frontend tech guide and curated collection of frontend materials
@@ -233,6 +233,7 @@
 
 ## TypeScript 
 
+- [sam-goodwin/alchemy](https://github.com/sam-goodwin/alchemy) - Infrastructure as TypeScript
 - [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
 - [untitleduico/react](https://github.com/untitleduico/react) - Untitled UI React is the world’s largest collection of open-source React components built with Tailwind CSS and React Aria. Just copy, paste, and build.
 - [xavia-io/xavia-ota](https://github.com/xavia-io/xavia-ota) - A self-hosted Over-The-Air (OTA) updates server for Expo/RN applications that gives you complete control over your app's update distribution.
@@ -294,9 +295,9 @@
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [ycs77/headlessui-float](https://github.com/ycs77/headlessui-float) - Easily use Headless UI with Floating UI to position floating elements.
 - [boxyhq/saas-starter-kit](https://github.com/boxyhq/saas-starter-kit) - 🔥 Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate 🚀
-- [chakra-ui/ark](https://github.com/chakra-ui/ark) - Build high-quality, accessible design systems design system. Works in React, Svelte, Vue, and Solid
+- [chakra-ui/ark](https://github.com/chakra-ui/ark) - Build high-quality, accessible design systems. Works in React, Svelte, Vue, and Solid
 - [supercharge/framework](https://github.com/supercharge/framework) - The Supercharge core code
-- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – open source background jobs and AI infrastructure
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [lightdash/lightdash](https://github.com/lightdash/lightdash) - Self-serve BI to 10x your data team ⚡️
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Rethinking Student Productivity
