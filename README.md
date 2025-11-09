@@ -174,7 +174,7 @@
 - [muhammedjailam/FarumaArabic](https://github.com/muhammedjailam/FarumaArabic) - Faruma font with support for Arabic characters and symbols
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [simon-schubert/devpunk](https://github.com/simon-schubert/devpunk) - Collection of non-platform endorsed resources with focus on PHP
-- [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
+- [RezShakeri/beautify-github-profile](https://github.com/RezShakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 - [judiciarymv/dhivehi-data](https://github.com/judiciarymv/dhivehi-data) - Collection of data used to populate databases
 - [vsitzmann/phd-master-application-docs](https://github.com/vsitzmann/phd-master-application-docs) - A collection of the application documents I used to apply to universities in the US.
 - [LaravelDaily/Laravel-Roadmap-Learning-Path](https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path) - 
@@ -189,7 +189,7 @@
 
 - [stevegrunwell/asimov](https://github.com/stevegrunwell/asimov) - Automatically exclude development dependencies from Apple Time Machine backups
 - [vitodeploy/vito](https://github.com/vitodeploy/vito) - Free and Self-Hosted  Server Management Tool
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [shopperlabs/shopper](https://github.com/shopperlabs/shopper) - Headless e-commerce administration built with Laravel to create and manage online store.
 - [aharen/Pay](https://github.com/aharen/Pay) - Process payments with Maldives Banking Gateways. Currently Supports Maldives Payment Gateway (MPG) by Bank of Maldives, Maldives Islamic Bank and MFaisaa by Ooredoo Maldives.
 - [foliovision/fv-top-level-cats](https://github.com/foliovision/fv-top-level-cats) - Removes the prefix from the URL for a category. For instance, if your old category link was &lt;code&gt;/category/catname&lt;/code&gt; it will now be &lt;code&gt;/catname&lt;/code&gt;
