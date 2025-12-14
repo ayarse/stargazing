@@ -156,7 +156,7 @@
 
 - [KenneyNL/Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives) - A list of alternatives for Adobe software
 - [agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) - A curated list of awesome developer-first tools products.
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, T
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [Olshansk/postgres_for_everything](https://github.com/Olshansk/postgres_for_everything) - How to reduce complexity and move faster? Just Postgres for everything.
 - [sadanandpai/frontend-learning-kit](https://github.com/sadanandpai/frontend-learning-kit) - Frontend tech guide and curated collection of frontend materials
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
@@ -238,6 +238,7 @@
 
 ## TypeScript 
 
+- [sarabjit20s/saaj-ui](https://github.com/sarabjit20s/saaj-ui) - A collection of beautifully designed, accessible React Native components to speed up your app development.
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
 - [sindresorhus/p-queue](https://github.com/sindresorhus/p-queue) - Promise queue with concurrency control
 - [unjs/ipx](https://github.com/unjs/ipx) - 🖼️ High performance, secure and easy-to-use image optimizer.
@@ -257,7 +258,7 @@
 - [L-Blondy/up-fetch](https://github.com/L-Blondy/up-fetch) - Advanced fetch client builder
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [campsite/campsite](https://github.com/campsite/campsite) - The Campsite monorepo
-- [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - Your AI Operator for Web, Android, Automation & Testing.
+- [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - Driving all platforms UI automation with vision-based model
 - [wang1212/awesome-favorites-list](https://github.com/wang1212/awesome-favorites-list) - :lollipop: Favorites list - awesome open source projects, websites, books, software etc. | 收藏列表，非常棒的开源项目、网站、书籍、软件等。
 - [lindesvard/pushmodal](https://github.com/lindesvard/pushmodal) - Handle shadcn dialog, sheet and drawer with ease
 - [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
@@ -339,7 +340,7 @@
 - [MathiasGilson/Tailwind-Styled-Component](https://github.com/MathiasGilson/Tailwind-Styled-Component) - Create Tailwind CSS React components like styled components with class names on multiple lines and conditional class rendering
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
 - [dailydotdev/daily-api](https://github.com/dailydotdev/daily-api) - 
 - [jeffijoe/awilix](https://github.com/jeffijoe/awilix) - Extremely powerful Inversion of Control (IoC) container for Node.JS
 - [Maxsy/emoji-deets](https://github.com/Maxsy/emoji-deets) - A package to get details about a given emojii 🪡
