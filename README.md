@@ -81,7 +81,7 @@
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [inngest/inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge.
 - [superstreamlabs/memphis](https://github.com/superstreamlabs/memphis) - Memphis.dev is a highly scalable and effortless data streaming platform
 
@@ -104,7 +104,6 @@
 
 ## JavaScript 
 
-- [Dammyjay93/claude-design-engineer](https://github.com/Dammyjay93/claude-design-engineer) - Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI.
 - [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Find your next book to read!
 - [atharv-rem/design-index-1.0](https://github.com/atharv-rem/design-index-1.0) - Collection of the best design resources on the internet
 - [themustafaomar/jsvectormap](https://github.com/themustafaomar/jsvectormap) - A lightweight JavaScript library for creating interactive maps and pretty data visualization.
@@ -156,6 +155,8 @@
 
 ## Others 
 
+- [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) - A collection of agent-optimized React Native skills for AI coding assistants.
+- [cat-backend-nodejs/nodejs-roadmap](https://github.com/cat-backend-nodejs/nodejs-roadmap) - Roadmap for Back-End Development using Node.JS
 - [frankcalise/awesome-nitro-modules](https://github.com/frankcalise/awesome-nitro-modules) - A collection of published or works in progress Nitro Modules and any additional resources
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [auctors/free-lunch](https://github.com/auctors/free-lunch) - A curated list of free Windows software, online services and resources. Feel free to contribute!
@@ -232,6 +233,7 @@
 
 ## Shell 
 
+- [Dammyjay93/interface-design](https://github.com/Dammyjay93/interface-design) - Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI.
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [expo/fyi](https://github.com/expo/fyi) - Little bits of information that you may find useful when interacting with Expo tools and service. Append the markdown filename to https://expo.fyi/ to get a quick link to it.
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
