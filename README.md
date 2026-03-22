@@ -260,6 +260,7 @@
 
 ## TypeScript 
 
+- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [optimajet/formengine](https://github.com/optimajet/formengine) - Lightweight React JSON Schema form builder with true cross-application form reuse. Build once, deploy everywhere, with no deep React knowledge required.
 - [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn) - Beautiful map components. 100% Free, Zero config, one command setup.
 - [enzomanuelmangano/pressto](https://github.com/enzomanuelmangano/pressto) - Your React Native app deserves better tap interactions.
