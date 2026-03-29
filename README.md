@@ -106,6 +106,7 @@
 
 ## JavaScript 
 
+- [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) - A collection of agent-optimized React Native skills for AI coding assistants.
 - [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Find your next book to read!
 - [atharv-rem/design-index-1.0](https://github.com/atharv-rem/design-index-1.0) - Collection of the best design resources on the internet
 - [themustafaomar/jsvectormap](https://github.com/themustafaomar/jsvectormap) - A lightweight JavaScript library for creating interactive maps and pretty data visualization.
@@ -161,7 +162,6 @@
 
 ## Others 
 
-- [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) - A collection of agent-optimized React Native skills for AI coding assistants.
 - [cat-backend-nodejs/nodejs-roadmap](https://github.com/cat-backend-nodejs/nodejs-roadmap) - Roadmap for Back-End Development using Node.JS
 - [frankcalise/awesome-nitro-modules](https://github.com/frankcalise/awesome-nitro-modules) - A collection of published or works in progress Nitro Modules and any additional resources
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
@@ -232,6 +232,7 @@
 
 ## Rust 
 
+- [AlpinDale/parsync](https://github.com/AlpinDale/parsync) - Parallel rsync-like pull sync over SSH with resume
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Fast Rust-based bundler for the web with a modernized webpack API 🦀
 - [hashintel/hash](https://github.com/hashintel/hash) - 🚀  The open-source, multi-tenant platform for self-building knowledge graphs and simulation
