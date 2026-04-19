@@ -163,6 +163,7 @@
 
 ## Others 
 
+- [sleekdotdesign/agent-skills](https://github.com/sleekdotdesign/agent-skills) - 
 - [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
 - [portabletext/portabletext](https://github.com/portabletext/portabletext) - Portable Text is a JSON based rich text specification for modern content editing platforms.
 - [cat-backend-nodejs/nodejs-roadmap](https://github.com/cat-backend-nodejs/nodejs-roadmap) - Roadmap for Back-End Development using Node.JS
@@ -202,6 +203,7 @@
 
 ## PHP 
 
+- [spatie/typescript-transformer](https://github.com/spatie/typescript-transformer) - Transform PHP types to TypeScript
 - [humbug/php-scoper](https://github.com/humbug/php-scoper) - 🔨 Prefixes all PHP namespaces in a file/directory to isolate the code bundled in PHARs.
 - [stevegrunwell/asimov](https://github.com/stevegrunwell/asimov) - Automatically exclude development dependencies from Apple Time Machine backups
 - [vitodeploy/vito](https://github.com/vitodeploy/vito) - Free and Self-Hosted  Server Management Tool
@@ -239,6 +241,7 @@
 
 ## Rust 
 
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [AlpinDale/parsync](https://github.com/AlpinDale/parsync) - Parallel rsync-like pull sync over SSH with resume
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Fast Rust-based bundler for the web with a modernized webpack API 🦀
@@ -381,7 +384,7 @@
 - [Maxsy/emoji-deets](https://github.com/Maxsy/emoji-deets) - A package to get details about a given emojii 🪡
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
-- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [CromwellCMS/Cromwell](https://github.com/CromwellCMS/Cromwell) - WordPress-like CMS for Next.js websites
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [taniarascia/takenote](https://github.com/taniarascia/takenote) - 📝  ‎ A web-based notes app for developers.
