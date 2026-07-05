@@ -241,7 +241,6 @@
 - [AlpinDale/parsync](https://github.com/AlpinDale/parsync) - Parallel rsync-like pull sync over SSH with resume
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Fast Rust-based bundler for the web with a modernized webpack API 🦀
-- [hashintel/hash](https://github.com/hashintel/hash) - 🚀  The open-source, multi-tenant platform for self-building knowledge graphs and simulation
 - [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 
 ## Shell 
@@ -269,7 +268,7 @@
 
 ## TypeScript 
 
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandb
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The Vibe Design Workspace & the open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, imag
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [optimajet/formengine](https://github.com/optimajet/formengine) - Lightweight React JSON Schema form builder with true cross-application form reuse. Build once, deploy everywhere, with no deep React knowledge required.
 - [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn) - Beautiful map components. 100% Free, Zero config, one command setup.
@@ -320,6 +319,7 @@
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [puckeditor/puck](https://github.com/puckeditor/puck) - The visual editor for React.
 - [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - A drawer component for React.
+- [hashintel/hash](https://github.com/hashintel/hash) - 🚀  The open-source, multi-tenant platform for self-building knowledge graphs and simulation
 - [gregberge/twc](https://github.com/gregberge/twc) - Create reusable React + Tailwind CSS components in one line ✨
 - [chakra-ui/park-ui](https://github.com/chakra-ui/park-ui) - Beautifully designed components built with Ark UI and Panda CSS that work with a variety of JS frameworks.
 - [heroui-inc/tailwind-variants](https://github.com/heroui-inc/tailwind-variants) - 🦄 Tailwindcss first-class variant API
