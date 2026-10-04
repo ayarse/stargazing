@@ -84,7 +84,6 @@
 - [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [inngest/inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge.
-- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [superstreamlabs/memphis](https://github.com/superstreamlabs/memphis) - Memphis.dev is a highly scalable and effortless data streaming platform
 
 ## HTML 
@@ -111,7 +110,7 @@
 - [atharv-rem/design-index-1.0](https://github.com/atharv-rem/design-index-1.0) - Collection of the best design resources on the internet
 - [themustafaomar/jsvectormap](https://github.com/themustafaomar/jsvectormap) - A lightweight JavaScript library for creating interactive maps and pretty data visualization.
 - [sindresorhus/pretty-bytes](https://github.com/sindresorhus/pretty-bytes) - Convert bytes to a human readable string: 1337 → 1.34 kB
-- [tiagozip/cap](https://github.com/tiagozip/cap) - Free, open-source and self-hosted CAPTCHA alternative to reCAPTCHA. Privacy-first and powered by proof-of-work and instrumentation challenges.
+- [tiagozip/cap](https://github.com/tiagozip/cap) - privacy-first, open-source and self-hosted CAPTCHA alternative with PoW and instrumentation challenges.
 - [huaize2020/awesome-nodejs](https://github.com/huaize2020/awesome-nodejs) - Node.js 资源大全中文版。An awesome Node.js packages and resources
 - [c3js/c3](https://github.com/c3js/c3) - :bar_chart: A D3-based reusable chart library
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
@@ -220,6 +219,7 @@
 
 ## Python 
 
+- [majidmanzarpour/blender-game-skills](https://github.com/majidmanzarpour/blender-game-skills) - Claude Code agent skills for game dev in Blender. Turn concept art into rigged, game-ready 3D assets, measured against your references.
 - [JustSteveKing/laravel-api-skill](https://github.com/JustSteveKing/laravel-api-skill) - A comprehensive Claude skill for building production-grade Laravel REST APIs with clean architecture, type safety, and Laravel best practices.
 - [narbehaj/ssl-checker](https://github.com/narbehaj/ssl-checker) - Python script that collects SSL/TLS information from hosts
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
@@ -263,12 +263,14 @@
 
 ## Swift 
 
+- [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers
 - [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Protect your SSH keys with your Mac's Secure Enclave
 
 ## TypeScript 
 
+- [jo-duchan/tapflow](https://github.com/jo-duchan/tapflow) - Self-hosted iOS & Android simulator streaming for the whole team
 - [pixel-point/toolcraft](https://github.com/pixel-point/toolcraft) - Build your own design apps with AI.
 - [ayarse/popkorn](https://github.com/ayarse/popkorn) - CSS Animations on steroids.
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
@@ -368,6 +370,7 @@
 - [geist-org/geist-ui](https://github.com/geist-org/geist-ui) - A design system for building modern websites and applications.
 - [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript.
 - [balazsbotond/urlcat](https://github.com/balazsbotond/urlcat) - A URL builder library for JavaScript.
+- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [saas-js/saas-ui](https://github.com/saas-js/saas-ui) - The React component library for startups, built with Chakra UI.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [antfu-collective/vitesse](https://github.com/antfu-collective/vitesse) - 🏕 Opinionated Vite + Vue Starter Template
