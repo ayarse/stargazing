@@ -105,7 +105,7 @@
 ## JavaScript 
 
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
-- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
+- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
 - [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Find your next book to read!
 - [atharv-rem/design-index-1.0](https://github.com/atharv-rem/design-index-1.0) - Collection of the best design resources on the internet
 - [themustafaomar/jsvectormap](https://github.com/themustafaomar/jsvectormap) - A lightweight JavaScript library for creating interactive maps and pretty data visualization.
@@ -159,7 +159,7 @@
 
 ## Others 
 
-- [sleekdotdesign/agent-skills](https://github.com/sleekdotdesign/agent-skills) - 
+- [sleekdotdesign/agent-skills](https://github.com/sleekdotdesign/agent-skills) - Official Sleek agent skill for creating and editing mobile app designs through the REST API. Includes account setup, screenshots and screen HTML.
 - [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
 - [portabletext/portabletext](https://github.com/portabletext/portabletext) - Portable Text is a JSON based rich text specification for modern content editing platforms.
 - [cat-backend-nodejs/nodejs-roadmap](https://github.com/cat-backend-nodejs/nodejs-roadmap) - Roadmap for Back-End Development using Node.JS
@@ -273,7 +273,7 @@
 - [jo-duchan/tapflow](https://github.com/jo-duchan/tapflow) - Self-hosted iOS & Android simulator streaming for the whole team
 - [pixel-point/toolcraft](https://github.com/pixel-point/toolcraft) - Build your own design apps with AI.
 - [ayarse/popkorn](https://github.com/ayarse/popkorn) - CSS Animations on steroids.
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work,
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [optimajet/formengine](https://github.com/optimajet/formengine) - Lightweight React JSON Schema form builder with true cross-application form reuse. Build once, deploy everywhere, with no deep React knowledge required.
 - [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn) - Beautiful map components. 100% Free, Zero config, one command setup.
@@ -296,13 +296,13 @@
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [janwilmake/forgithub](https://github.com/janwilmake/forgithub) - GitHub Tools Powered By URL UX
 - [pilcrowonpaper/arctic](https://github.com/pilcrowonpaper/arctic) - OAuth 2.0 clients for popular providers
-- [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
+- [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date docs for AI agents
 - [gronxb/hot-updater](https://github.com/gronxb/hot-updater) - A self-hostable OTA update solution for React Native (Alternative to CodePush)
 - [mrpmohiburrahman/rnui.dev](https://github.com/mrpmohiburrahman/rnui.dev) - Curated catalog of React Native UI components, animations, and design inspiration. AI-assisted ingestion via OpenAI Codex.
 - [L-Blondy/up-fetch](https://github.com/L-Blondy/up-fetch) - Advanced fetch client builder
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [campsite/campsite](https://github.com/campsite/campsite) - The Campsite monorepo
-- [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - GUI Agent for E2E Testing
+- [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - See interfaces like a human. E2E testing in natural language.
 - [wang1212/awesome-favorites-list](https://github.com/wang1212/awesome-favorites-list) - :lollipop: Favorites list - awesome open source projects, websites, books, software etc. | 收藏列表，非常棒的开源项目、网站、书籍、软件等。
 - [lindesvard/pushmodal](https://github.com/lindesvard/pushmodal) - Handle shadcn dialog, sheet and drawer with ease
 - [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
@@ -363,7 +363,7 @@
 - [mattpocock/zod-fetch](https://github.com/mattpocock/zod-fetch) - Simple function for building a type-safe fetcher with Zod
 - [theodorusclarence/ts-nextjs-tailwind-starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter) - 🔋 Next.js + Tailwind CSS + TypeScript starter and boilerplate packed with useful development features
 - [antfu/drauu](https://github.com/antfu/drauu) - Headless SVG-based drawboard in browser.
-- [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio.
+- [fonoster/fonoster](https://github.com/fonoster/fonoster) - The AI that answers the phone.
 - [halsp/core](https://github.com/halsp/core) - Halsp 是一个面向云的现代渐进式轻量 Node.js 框架，可以运行于原生 http 服务，也可以运行于 serverless
 - [juliusmarminge/acme-corp](https://github.com/juliusmarminge/acme-corp) - 
 - [buildship-ai/rowy](https://github.com/buildship-ai/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
@@ -374,7 +374,7 @@
 - [saas-js/saas-ui](https://github.com/saas-js/saas-ui) - The React component library for startups, built with Chakra UI.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [antfu-collective/vitesse](https://github.com/antfu-collective/vitesse) - 🏕 Opinionated Vite + Vue Starter Template
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.
 - [pmndrs/leva](https://github.com/pmndrs/leva) - 🌋 React-first components GUI
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
